@@ -100,6 +100,10 @@ void loop()
 }
 ```
 
+### CIRCUIT DESIGN:
+
+![Screenshot 2024-03-07 115525](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/bca05aa9-c470-423a-b5d8-a858e7dcd7a9)
+
 ## OUTPUT:
 
 ![Screenshot 2024-03-07 113516](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/8d5c7e6a-95e9-498f-b29f-28014fc234ce)
