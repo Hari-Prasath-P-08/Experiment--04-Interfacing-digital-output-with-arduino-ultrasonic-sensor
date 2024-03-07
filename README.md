@@ -51,11 +51,11 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 10.	Plot the graph for the output voltage vs the resistance 
 
 
-### PROGRAM:
+## PROGRAM:
 
-## DONE BY: Hari Prasath. P
-## REG. NO: 212223230070
-## DEPT: AI & DS
+### DONE BY: Hari Prasath. P
+### REG. NO: 212223230070
+### DEPT: AI & DS
 
 ```c++
 const int trigPin = 10;
@@ -100,16 +100,11 @@ void loop()
 }
 ```
 
-### OUTPUT:
+## OUTPUT:
 
 ![Screenshot 2024-03-07 113516](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/8d5c7e6a-95e9-498f-b29f-28014fc234ce)
 
 ![Screenshot 2024-03-07 113531](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/f8910711-ca58-401b-8055-4905fca33041)
-
-## GRAPH:
-
-![Screenshot 2024-03-07 112236](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/c1978292-27fc-4785-80fd-ec8650291a6e)
-
 
 ### Distance vs measurement table:
 			
@@ -121,6 +116,10 @@ Average error = sum/ number of readings
               = -0.35/5
               = -0.07
 ```
+
+### GRAPH:
+
+![Screenshot 2024-03-07 112236](https://github.com/Hari-Prasath-P-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/139455593/c1978292-27fc-4785-80fd-ec8650291a6e)
 
 ### RESULTS:
 
